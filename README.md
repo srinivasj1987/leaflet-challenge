@@ -26,12 +26,10 @@ Make sure you have installed all of the following prerequisites on your developm
 - git clone `https://github.com/yeyanwang/leaflet-challenge.git`
 - Open the repo in a code editor to see the codes
 
-- Visit [localhost: 5000](http://localhost:5000) in your browser
-
 ## Features
 **The Map**
 
-  The map is set to centered at GeoCoordinate [37.6000, -95.6650] (the United States), with a zoom level of 2.5. Each marker on the map indicates an incident of earthquake, and the orange lines across the map indicate the tectonic plates boundaries. The map is zoomable. You can also move the map by click and drag to explore different areas. 
+  The map is set to centered at GeoCoordinate [37.09, -95.71] (the United States), with a zoom level of 2.5. Each marker on the map indicates an incident of earthquake, and the orange lines across the map indicate the tectonic plates boundaries. The map is zoomable. You can also move the map by click and drag to explore different areas. 
 
 See below snippet:
 
