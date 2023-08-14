@@ -29,11 +29,11 @@ Make sure you have installed all of the following prerequisites on your developm
 ## Features
 **The Map**
 
-  The map is set to centered at GeoCoordinate [37.09, -95.71] (the United States), with a zoom level of 2.5. Each marker on the map indicates an incident of earthquake, and the orange lines across the map indicate the tectonic plates boundaries. The map is zoomable. You can also move the map by click and drag to explore different areas. 
+  The map is set to centered at GeoCoordinate [37.09, -95.71] (the United States), with a zoom level of 5. Each marker on the map indicates an incident of earthquake, and the orange lines across the map indicate the tectonic plates boundaries. The map is zoomable. You can also move the map by click and drag to explore different areas. 
 
 See below snippet:
 
-  ![image](https://user-images.githubusercontent.com/120543690/230995887-590a7427-9056-4b53-9c3c-461a4a0b1866.png)
+
   
 **Layer Control**
 
