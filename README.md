@@ -23,7 +23,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 **Installation**
 - Clone this repo and save it in your local directory
-- git clone `https://github.com/yeyanwang/leaflet-challenge.git`
+- git clone `https://github.com/srinivasj1987/leaflet-challenge.git`
 - Open the repo in a code editor to see the codes
 
 ## Features
